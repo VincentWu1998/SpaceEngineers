@@ -6,7 +6,7 @@
   <EnablePlanetaryCargoShips>true</EnablePlanetaryCargoShips>
   <EnableRandomEncounters>true</EnableRandomEncounters>
   <EnablePlanetaryInstallations>true</EnablePlanetaryInstallations>
-  <EnableBossEncounters>true</EnableBossEncounters>
+  <EnableBossEncounters>false</EnableBossEncounters>
   <EnableGlobalNPCWeaponRandomizer>false</EnableGlobalNPCWeaponRandomizer>
   <EnableGlobalNPCShieldProvider>false</EnableGlobalNPCShieldProvider>
   <EnableLegacySpaceCargoShipDetection>true</EnableLegacySpaceCargoShipDetection>
