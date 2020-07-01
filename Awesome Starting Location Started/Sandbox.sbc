@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>673502640000</ElapsedGameTime>
+  <ElapsedGameTime>682334800000</ElapsedGameTime>
   <SessionName>Awesome Starting Location Started</SessionName>
   <SpectatorPosition>
     <Position x="-39604.3651571104" y="-38699.836091513513" z="-26517.782779089339" />
@@ -19,7 +19,7 @@
   <CameraEntity>0</CameraEntity>
   <Password />
   <Description />
-  <LastSaveTime>2020-07-01T00:46:42.7142608-07:00</LastSaveTime>
+  <LastSaveTime>2020-07-01T01:13:40.0017042-07:00</LastSaveTime>
   <SpectatorDistance>2.6</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
@@ -156,29 +156,7 @@
     </SlotsGamepad>
   </CharacterToolbar>
   <ControlledEntities>
-    <dictionary>
-      <item>
-        <Key>121268414522130494</Key>
-        <Value>
-          <ClientId>76561198041508947</ClientId>
-          <SerialId>0</SerialId>
-        </Value>
-      </item>
-      <item>
-        <Key>84927172222772001</Key>
-        <Value>
-          <ClientId>76561198146050134</ClientId>
-          <SerialId>0</SerialId>
-        </Value>
-      </item>
-      <item>
-        <Key>100634028737016325</Key>
-        <Value>
-          <ClientId>76561198110282559</ClientId>
-          <SerialId>0</SerialId>
-        </Value>
-      </item>
-    </dictionary>
+    <dictionary />
   </ControlledEntities>
   <Settings xsi:type="MyObjectBuilder_SessionSettings">
     <GameMode>Survival</GameMode>
@@ -584,6 +562,14 @@
       <Name>1124114101.sbm</Name>
       <PublishedFileId>1124114101</PublishedFileId>
     </ModItem>
+    <ModItem FriendlyName="Fast Cargo Ship Spawn Rate">
+      <Name>888485827.sbm</Name>
+      <PublishedFileId>888485827</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Invasion of Wolves">
+      <Name>1163665793.sbm</Name>
+      <PublishedFileId>1163665793</PublishedFileId>
+    </ModItem>
   </Mods>
   <PromotedUsers>
     <dictionary>
@@ -616,7 +602,7 @@
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2020-06-30T23:11:02.1128994-07:00</LastLoginTime>
+      <LastLoginTime>2020-07-01T01:13:22.6081845-07:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -629,7 +615,7 @@
       <DisplayName>The Great Tarantula</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2020-06-30T23:10:56.9362169-07:00</LastLoginTime>
+      <LastLoginTime>2020-07-01T01:13:16.1512099-07:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -640,11 +626,11 @@
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075855897</IdentityId>
       <DisplayName>extra strength goldnova</DisplayName>
-      <CharacterEntityId>119335602316693999</CharacterEntityId>
+      <CharacterEntityId>0</CharacterEntityId>
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.349019617" y="0" z="0" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2020-06-30T23:13:27.6217347-07:00</LastLoginTime>
+      <LastLoginTime>2020-07-01T00:52:17.5992234-07:00</LastLoginTime>
       <SavedCharacters>
         <long>134395676913134123</long>
         <long>96826969493395569</long>
@@ -655,7 +641,7 @@
         <long>123698095062212747</long>
         <long>119335602316693999</long>
       </SavedCharacters>
-      <LastLogoutTime>2020-07-01T00:46:42.7152607-07:00</LastLogoutTime>
+      <LastLogoutTime>2020-07-01T01:06:05.853509-07:00</LastLogoutTime>
       <RespawnShips>
         <long>104062363745634458</long>
       </RespawnShips>
@@ -672,7 +658,7 @@
       <DisplayName>Exiled Engineer</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2020-06-30T23:10:56.9362169-07:00</LastLoginTime>
+      <LastLoginTime>2020-07-01T01:13:16.1512099-07:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2019-04-17T17:02:32.6713762-07:00</LastLogoutTime>
       <RespawnShips />
@@ -683,18 +669,18 @@
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075855899</IdentityId>
       <DisplayName>Rovanova</DisplayName>
-      <CharacterEntityId>129676880426394686</CharacterEntityId>
+      <CharacterEntityId>0</CharacterEntityId>
       <Model>Default_Astronaut</Model>
       <ColorMask x="1" y="0" z="0" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2020-06-30T23:20:33.3241037-07:00</LastLoginTime>
+      <LastLoginTime>2020-07-01T01:00:58.5186427-07:00</LastLoginTime>
       <SavedCharacters>
         <long>76970793736063067</long>
         <long>105896364126076662</long>
         <long>98843309178414327</long>
         <long>129676880426394686</long>
       </SavedCharacters>
-      <LastLogoutTime>2020-07-01T00:46:42.7152607-07:00</LastLogoutTime>
+      <LastLogoutTime>2020-07-01T01:06:05.853509-07:00</LastLogoutTime>
       <RespawnShips>
         <long>115446816389179084</long>
       </RespawnShips>
@@ -709,17 +695,17 @@
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075855900</IdentityId>
       <DisplayName>FieryThunder</DisplayName>
-      <CharacterEntityId>122144203954307213</CharacterEntityId>
+      <CharacterEntityId>0</CharacterEntityId>
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.605555534" y="0.199999988" z="0.0532630458" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2020-06-30T23:27:55.714517-07:00</LastLoginTime>
+      <LastLoginTime>2020-07-01T01:00:55.9690084-07:00</LastLoginTime>
       <SavedCharacters>
         <long>75763879835168294</long>
         <long>102603028343158168</long>
         <long>122144203954307213</long>
       </SavedCharacters>
-      <LastLogoutTime>2020-07-01T00:46:42.7152607-07:00</LastLogoutTime>
+      <LastLogoutTime>2020-07-01T01:06:05.853509-07:00</LastLogoutTime>
       <RespawnShips>
         <long>105740440875777637</long>
       </RespawnShips>
@@ -755,28 +741,6 @@
       <TransferedPCUDelta>0</TransferedPCUDelta>
     </MyObjectBuilder_Identity>
   </Identities>
-  <Clients>
-    <MyObjectBuilder_Client>
-      <SteamId>90136717672475656</SteamId>
-      <Name>Good.bot</Name>
-      <IsAdmin>true</IsAdmin>
-    </MyObjectBuilder_Client>
-    <MyObjectBuilder_Client>
-      <SteamId>76561198041508947</SteamId>
-      <Name>extra strength goldnova</Name>
-      <IsAdmin>true</IsAdmin>
-    </MyObjectBuilder_Client>
-    <MyObjectBuilder_Client>
-      <SteamId>76561198146050134</SteamId>
-      <Name>Rovanova</Name>
-      <IsAdmin>false</IsAdmin>
-    </MyObjectBuilder_Client>
-    <MyObjectBuilder_Client>
-      <SteamId>76561198110282559</SteamId>
-      <Name>FieryThunder</Name>
-      <IsAdmin>false</IsAdmin>
-    </MyObjectBuilder_Client>
-  </Clients>
   <PreviousEnvironmentHostility>NORMAL</PreviousEnvironmentHostility>
   <AllPlayersData>
     <dictionary>
@@ -788,8 +752,8 @@
         <Value>
           <DisplayName>FieryThunder</DisplayName>
           <IdentityId>144115188075855900</IdentityId>
-          <Connected>true</Connected>
-          <ForceRealPlayer>true</ForceRealPlayer>
+          <Connected>false</Connected>
+          <ForceRealPlayer>false</ForceRealPlayer>
           <Toolbar>
             <ToolbarType>Character</ToolbarType>
             <SelectedSlot xsi:nil="true" />
@@ -891,6 +855,11 @@
               <Distance>64.537845119516248</Distance>
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
+            <CameraControllerSettings EntityId="100634028737016325">
+              <IsFirstPerson>true</IsFirstPerson>
+              <Distance>2.5999999046325684</Distance>
+              <HeadAngle x="0" y="0" />
+            </CameraControllerSettings>
           </EntityCameraData>
           <BuildColorSlot>0</BuildColorSlot>
         </Value>
@@ -903,8 +872,8 @@
         <Value>
           <DisplayName>Rovanova</DisplayName>
           <IdentityId>144115188075855899</IdentityId>
-          <Connected>true</Connected>
-          <ForceRealPlayer>true</ForceRealPlayer>
+          <Connected>false</Connected>
+          <ForceRealPlayer>false</ForceRealPlayer>
           <Toolbar>
             <ToolbarType>Character</ToolbarType>
             <SelectedSlot xsi:nil="true" />
@@ -934,7 +903,7 @@
                 <Index>3</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
+                  <DefinitionId Type="MyObjectBuilder_ShipConnector" Subtype="Connector" />
                 </Data>
               </Slot>
               <Slot>
@@ -996,6 +965,11 @@
               <Distance>2.5999999046325684</Distance>
               <HeadAngle x="-27.8834419" y="0" />
             </CameraControllerSettings>
+            <CameraControllerSettings EntityId="84927172222772001">
+              <IsFirstPerson>true</IsFirstPerson>
+              <Distance>2.5999999046325684</Distance>
+              <HeadAngle x="0" y="0" />
+            </CameraControllerSettings>
           </EntityCameraData>
           <BuildColorSlot>0</BuildColorSlot>
         </Value>
@@ -1008,8 +982,8 @@
         <Value>
           <DisplayName>extra strength goldnova</DisplayName>
           <IdentityId>144115188075855897</IdentityId>
-          <Connected>true</Connected>
-          <ForceRealPlayer>true</ForceRealPlayer>
+          <Connected>false</Connected>
+          <ForceRealPlayer>false</ForceRealPlayer>
           <Toolbar>
             <ToolbarType>Character</ToolbarType>
             <SelectedSlot xsi:nil="true" />
@@ -1074,7 +1048,7 @@
                 <Index>8</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_MotorSuspension" Subtype="Suspension3x3" />
+                  <DefinitionId Type="MyObjectBuilder_InteriorLight" Subtype="SmallLight" />
                 </Data>
               </Slot>
             </Slots>
@@ -1095,6 +1069,11 @@
               <IsFirstPerson>true</IsFirstPerson>
               <Distance>2.5999999046325684</Distance>
               <HeadAngle x="0" y="0" />
+            </CameraControllerSettings>
+            <CameraControllerSettings EntityId="121268414522130494">
+              <IsFirstPerson>true</IsFirstPerson>
+              <Distance>2.5999999046325684</Distance>
+              <HeadAngle x="-49.75965" y="2.44717455" />
             </CameraControllerSettings>
           </EntityCameraData>
           <BuildColorSlot>0</BuildColorSlot>
@@ -1410,6 +1389,32 @@
               <contractId>0</contractId>
               <DisplayName />
             </Entry>
+            <Entry>
+              <name>Strong unknown signal 4</name>
+              <description />
+              <coords>
+                <X>8317.6316646767191</X>
+                <Y>-54702.244151095147</Y>
+                <Z>32149.497515972864</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>true</alwaysVisible>
+              <color>
+                <PackedValue>4278255615</PackedValue>
+                <X>255</X>
+                <Y>255</Y>
+                <Z>0</Z>
+                <R>255</R>
+                <G>255</G>
+                <B>0</B>
+                <A>255</A>
+              </color>
+              <entityId>131066149675727403</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <DisplayName>Strong unknown signal</DisplayName>
+            </Entry>
           </Entries>
         </Value>
       </item>
@@ -1447,9 +1452,9 @@
               <name>Respawn Pod - 104062363745634458</name>
               <description>Location of your respawn pod</description>
               <coords>
-                <X>-2275.7857119055989</X>
-                <Y>37058.765464957731</Y>
-                <Z>49074.454920090473</Z>
+                <X>-2275.7848350002077</X>
+                <Y>37058.761483412258</Y>
+                <Z>49074.451156005627</Z>
               </coords>
               <isFinal>true</isFinal>
               <showOnHud>true</showOnHud>
@@ -1494,6 +1499,58 @@
               <isObjective>false</isObjective>
               <contractId>0</contractId>
               <DisplayName />
+            </Entry>
+            <Entry>
+              <name>Strong unknown signal 4</name>
+              <description />
+              <coords>
+                <X>8317.6316646767191</X>
+                <Y>-54702.244151095147</Y>
+                <Z>32149.497515972864</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>true</alwaysVisible>
+              <color>
+                <PackedValue>4278255615</PackedValue>
+                <X>255</X>
+                <Y>255</Y>
+                <Z>0</Z>
+                <R>255</R>
+                <G>255</G>
+                <B>0</B>
+                <A>255</A>
+              </color>
+              <entityId>131066149675727403</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <DisplayName>Strong unknown signal</DisplayName>
+            </Entry>
+            <Entry>
+              <name>Unknown signal 75</name>
+              <description />
+              <coords>
+                <X>-41963.389746973044</X>
+                <Y>-36528.653109984924</Y>
+                <Z>-28348.983911350115</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>true</alwaysVisible>
+              <color>
+                <PackedValue>4281335725</PackedValue>
+                <X>173</X>
+                <Y>255</Y>
+                <Z>47</Z>
+                <R>173</R>
+                <G>255</G>
+                <B>47</B>
+                <A>255</A>
+              </color>
+              <entityId>80257324395396447</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <DisplayName>Unknown signal</DisplayName>
             </Entry>
           </Entries>
         </Value>
@@ -1659,30 +1716,30 @@
               <DisplayName />
             </Entry>
             <Entry>
-              <name>Unknown signal 74</name>
+              <name>Strong unknown signal 4</name>
               <description />
               <coords>
-                <X>-40835.6325129573</X>
-                <Y>-37497.303578514024</Y>
-                <Z>-26215.935334828471</Z>
+                <X>8317.6316646767191</X>
+                <Y>-54702.244151095147</Y>
+                <Z>32149.497515972864</Z>
               </coords>
               <isFinal>true</isFinal>
               <showOnHud>true</showOnHud>
               <alwaysVisible>true</alwaysVisible>
               <color>
-                <PackedValue>4281335725</PackedValue>
-                <X>173</X>
+                <PackedValue>4278255615</PackedValue>
+                <X>255</X>
                 <Y>255</Y>
-                <Z>47</Z>
-                <R>173</R>
+                <Z>0</Z>
+                <R>255</R>
                 <G>255</G>
-                <B>47</B>
+                <B>0</B>
                 <A>255</A>
               </color>
-              <entityId>115984343417514828</entityId>
+              <entityId>131066149675727403</entityId>
               <isObjective>false</isObjective>
               <contractId>0</contractId>
-              <DisplayName>Unknown signal</DisplayName>
+              <DisplayName>Strong unknown signal</DisplayName>
             </Entry>
           </Entries>
         </Value>
@@ -1695,9 +1752,9 @@
               <name>Respawn Pod - 121747935675536200</name>
               <description>Location of your respawn pod</description>
               <coords>
-                <X>-51172.967647812431</X>
-                <Y>31913.111432389036</Y>
-                <Z>14670.120976312937</Z>
+                <X>-51172.965276744144</X>
+                <Y>31913.107044112228</Y>
+                <Z>14670.119774983148</Z>
               </coords>
               <isFinal>true</isFinal>
               <showOnHud>true</showOnHud>
@@ -1824,7 +1881,9 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpaceFaunaComponent">
       <SpawnInfos>
-        <Info X="-39601.617885042389" Y="-38718.043874275085" Z="-26492.07110858797" S="129884" A="44700" />
+        <Info X="-39113.2606483288" Y="-39434.108766202946" Z="-26222.883593953437" S="96468" A="96468" />
+        <Info X="-39519.109351753868" Y="-38821.831480237066" Z="-26487.680433388527" S="25737" A="25737" />
+        <Info X="-39307.488216667378" Y="-39157.469187505878" Z="-26288.8565983658" S="23434" A="23434" />
       </SpawnInfos>
       <TimeoutInfos />
     </MyObjectBuilder_SessionComponent>
@@ -1840,7 +1899,7 @@
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>3868533696819502467</PlanetId>
-          <NextWeather>170585</NextWeather>
+          <NextWeather>115393</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
@@ -1850,22 +1909,22 @@
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>7227078719122709097</PlanetId>
-          <NextWeather>2662</NextWeather>
+          <NextWeather>2901</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>6409848419840584595</PlanetId>
-          <NextWeather>63450</NextWeather>
+          <NextWeather>8258</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>7376538848170297803</PlanetId>
-          <NextWeather>20444</NextWeather>
+          <NextWeather>173120</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-6999989728267602142</PlanetId>
-          <NextWeather>7000</NextWeather>
+          <NextWeather>7197</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
       </WeatherPlanetData>
@@ -1876,16 +1935,16 @@
       <PlayerData>
         <PlayerContainerData>
           <PlayerId>144115188075855897</PlayerId>
-          <Timer>683</Timer>
-          <Active>true</Active>
+          <Timer>933</Timer>
+          <Active>false</Active>
           <Competetive>false</Competetive>
-          <ContainerId>103023836267804025</ContainerId>
+          <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855899</PlayerId>
-          <Timer>324</Timer>
+          <Timer>122</Timer>
           <Active>true</Active>
-          <Competetive>false</Competetive>
+          <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
@@ -1893,11 +1952,11 @@
           <Timer>350</Timer>
           <Active>false</Active>
           <Competetive>false</Competetive>
-          <ContainerId>115984343417514828</ContainerId>
+          <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855901</PlayerId>
-          <Timer>250</Timer>
+          <Timer>707</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
@@ -1906,12 +1965,16 @@
       <GPSForRemoval />
       <EntitiesForRemoval>
         <MyEntityForRemoval>
-          <TimeLeft>638</TimeLeft>
-          <EntityId>106540429302212082</EntityId>
+          <TimeLeft>300</TimeLeft>
+          <EntityId>110879461983461500</EntityId>
+        </MyEntityForRemoval>
+        <MyEntityForRemoval>
+          <TimeLeft>659</TimeLeft>
+          <EntityId>79520721523849631</EntityId>
         </MyEntityForRemoval>
       </EntitiesForRemoval>
-      <ContainerIdSmall>75</ContainerIdSmall>
-      <ContainerIdLarge>4</ContainerIdLarge>
+      <ContainerIdSmall>76</ContainerIdSmall>
+      <ContainerIdLarge>5</ContainerIdLarge>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentContractSystem">
       <Definition Type="MyObjectBuilder_SessionComponentContractSystemDefinition" Subtype="Default" />
@@ -1972,7 +2035,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>5850</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>85764</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -2103,17 +2166,17 @@
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>16384.5</X>
-            <Y>136384.5</Y>
-            <Z>-113615.5</Z>
+            <X>36384.5</X>
+            <Y>226384.5</Y>
+            <Z>5796384.5</Z>
           </Position>
           <Radius>9785</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>36384.5</X>
-            <Y>226384.5</Y>
-            <Z>5796384.5</Z>
+            <X>16384.5</X>
+            <Y>136384.5</Y>
+            <Z>-113615.5</Z>
           </Position>
           <Radius>9785</Radius>
         </EmptyArea>
