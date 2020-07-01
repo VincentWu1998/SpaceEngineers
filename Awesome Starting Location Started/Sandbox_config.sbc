@@ -113,18 +113,17 @@
     <StationsDistanceOuterRadiusEnd>30000000</StationsDistanceOuterRadiusEnd>
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <SimplifiedSimulation>false</SimplifiedSimulation>
-    <SuppressedWarnings />
   </Settings>
   <Mods>
     <ModItem FriendlyName="More Conveyors">
       <Name>1124114101.sbm</Name>
       <PublishedFileId>1124114101</PublishedFileId>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="Fast Cargo Ship Spawn Rate">
       <Name>888485827.sbm</Name>
       <PublishedFileId>888485827</PublishedFileId>
     </ModItem>
-    <ModItem>
+    <ModItem FriendlyName="Invasion of Wolves">
       <Name>1163665793.sbm</Name>
       <PublishedFileId>1163665793</PublishedFileId>
     </ModItem>
