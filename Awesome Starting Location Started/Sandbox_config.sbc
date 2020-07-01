@@ -65,7 +65,7 @@
     <EnableVoxelDestruction>true</EnableVoxelDestruction>
     <MaxDrones>5</MaxDrones>
     <EnableDrones>true</EnableDrones>
-    <EnableWolfs>false</EnableWolfs>
+    <EnableWolfs>true</EnableWolfs>
     <EnableSpiders>true</EnableSpiders>
     <FloraDensityMultiplier>1</FloraDensityMultiplier>
     <EnableStructuralSimulation>false</EnableStructuralSimulation>
@@ -113,17 +113,22 @@
     <StationsDistanceOuterRadiusEnd>30000000</StationsDistanceOuterRadiusEnd>
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <SimplifiedSimulation>false</SimplifiedSimulation>
+    <SuppressedWarnings />
   </Settings>
   <Mods>
+    <ModItem FriendlyName="*Unknown*">
+      <Name>1521905890.sbm</Name>
+      <PublishedFileId>1521905890</PublishedFileId>
+    </ModItem>
     <ModItem FriendlyName="More Conveyors">
       <Name>1124114101.sbm</Name>
       <PublishedFileId>1124114101</PublishedFileId>
     </ModItem>
-    <ModItem FriendlyName="Fast Cargo Ship Spawn Rate">
+    <ModItem>
       <Name>888485827.sbm</Name>
       <PublishedFileId>888485827</PublishedFileId>
     </ModItem>
-    <ModItem FriendlyName="Invasion of Wolves">
+    <ModItem>
       <Name>1163665793.sbm</Name>
       <PublishedFileId>1163665793</PublishedFileId>
     </ModItem>
