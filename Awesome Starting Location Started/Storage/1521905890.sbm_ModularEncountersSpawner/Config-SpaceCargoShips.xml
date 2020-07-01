@@ -8,7 +8,7 @@
   <AreaSize>15000</AreaSize>
   <MaxSpawnAttempts>10</MaxSpawnAttempts>
   <MinPathDistanceFromPlayer>2000</MinPathDistanceFromPlayer>
-  <MaxPathDistanceFromPlayer>4000</MaxPathDistanceFromPlayer>
+  <MaxPathDistanceFromPlayer>3500</MaxPathDistanceFromPlayer>
   <MinLunarSpawnHeight>3500</MinLunarSpawnHeight>
   <MaxLunarSpawnHeight>4500</MaxLunarSpawnHeight>
   <MinSpawnDistFromEntities>1000</MinSpawnDistFromEntities>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>793839440000</ElapsedGameTime>
+  <ElapsedGameTime>799000400000</ElapsedGameTime>
   <SessionName>Awesome Starting Location Started</SessionName>
   <SpectatorPosition>
     <Position x="-39604.3651571104" y="-38699.836091513513" z="-26517.782779089339" />
@@ -19,7 +19,7 @@
   <CameraEntity>0</CameraEntity>
   <Password />
   <Description />
-  <LastSaveTime>2020-07-01T08:58:12.9458886-07:00</LastSaveTime>
+  <LastSaveTime>2020-07-01T09:28:06.918834-07:00</LastSaveTime>
   <SpectatorDistance>2.6</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
@@ -156,7 +156,15 @@
     </SlotsGamepad>
   </CharacterToolbar>
   <ControlledEntities>
-    <dictionary />
+    <dictionary>
+      <item>
+        <Key>121268414522130494</Key>
+        <Value>
+          <ClientId>76561198041508947</ClientId>
+          <SerialId>0</SerialId>
+        </Value>
+      </item>
+    </dictionary>
   </ControlledEntities>
   <Settings xsi:type="MyObjectBuilder_SessionSettings">
     <GameMode>Survival</GameMode>
@@ -2422,7 +2430,7 @@
         <PlayerId>144115188075855897</PlayerId>
         <FactionId>273060811546874192</FactionId>
         <Relation>Enemies</Relation>
-        <Reputation>-975</Reputation>
+        <Reputation>-875</Reputation>
       </MyObjectBuilder_PlayerFactionRelation>
       <MyObjectBuilder_PlayerFactionRelation>
         <PlayerId>144115188075855894</PlayerId>
@@ -2440,7 +2448,7 @@
         <PlayerId>144115188075855897</PlayerId>
         <FactionId>270184222006364636</FactionId>
         <Relation>Enemies</Relation>
-        <Reputation>-1025</Reputation>
+        <Reputation>-1125</Reputation>
       </MyObjectBuilder_PlayerFactionRelation>
       <MyObjectBuilder_PlayerFactionRelation>
         <PlayerId>144115188075855900</PlayerId>
@@ -5626,6 +5634,62 @@
           <long>273060811546874192</long>
         </DiscoveredFactions>
       </MyObjectBuilder_FactionsVisEntry>
+      <MyObjectBuilder_FactionsVisEntry>
+        <PlayerId>90136729717754884</PlayerId>
+        <SerialId>1</SerialId>
+        <DiscoveredFactions>
+          <long>270184222006364636</long>
+          <long>273060811546874192</long>
+        </DiscoveredFactions>
+      </MyObjectBuilder_FactionsVisEntry>
+      <MyObjectBuilder_FactionsVisEntry>
+        <PlayerId>90136729717754884</PlayerId>
+        <SerialId>2</SerialId>
+        <DiscoveredFactions>
+          <long>270184222006364636</long>
+          <long>273060811546874192</long>
+        </DiscoveredFactions>
+      </MyObjectBuilder_FactionsVisEntry>
+      <MyObjectBuilder_FactionsVisEntry>
+        <PlayerId>90136729717754884</PlayerId>
+        <SerialId>3</SerialId>
+        <DiscoveredFactions>
+          <long>270184222006364636</long>
+          <long>273060811546874192</long>
+        </DiscoveredFactions>
+      </MyObjectBuilder_FactionsVisEntry>
+      <MyObjectBuilder_FactionsVisEntry>
+        <PlayerId>90136729717754884</PlayerId>
+        <SerialId>4</SerialId>
+        <DiscoveredFactions>
+          <long>270184222006364636</long>
+          <long>273060811546874192</long>
+        </DiscoveredFactions>
+      </MyObjectBuilder_FactionsVisEntry>
+      <MyObjectBuilder_FactionsVisEntry>
+        <PlayerId>90136729717754884</PlayerId>
+        <SerialId>5</SerialId>
+        <DiscoveredFactions>
+          <long>270184222006364636</long>
+          <long>273060811546874192</long>
+        </DiscoveredFactions>
+      </MyObjectBuilder_FactionsVisEntry>
+      <MyObjectBuilder_FactionsVisEntry>
+        <PlayerId>90136729717754884</PlayerId>
+        <SerialId>6</SerialId>
+        <DiscoveredFactions>
+          <long>270184222006364636</long>
+          <long>273060811546874192</long>
+        </DiscoveredFactions>
+      </MyObjectBuilder_FactionsVisEntry>
+      <MyObjectBuilder_FactionsVisEntry>
+        <PlayerId>90136729717754884</PlayerId>
+        <SerialId>7</SerialId>
+        <DiscoveredFactions>
+          <long>270184222006364636</long>
+          <long>273060811546874192</long>
+        </DiscoveredFactions>
+      </MyObjectBuilder_FactionsVisEntry>
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
@@ -5672,153 +5736,6 @@
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="StarSystem" />
   <RespawnCooldowns />
   <Identities>
-    <MyObjectBuilder_Identity>
-      <IdentityId>144115188075855894</IdentityId>
-      <DisplayName>Space Pirates</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
-      <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2020-07-01T08:30:17.8048194-07:00</LastLoginTime>
-      <SavedCharacters />
-      <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
-      <RespawnShips />
-      <LastDeathPosition xsi:nil="true" />
-      <ActiveContracts />
-      <TransferedPCUDelta>0</TransferedPCUDelta>
-    </MyObjectBuilder_Identity>
-    <MyObjectBuilder_Identity>
-      <IdentityId>144115188075855896</IdentityId>
-      <DisplayName>The Great Tarantula</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
-      <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2020-07-01T08:30:11.2493279-07:00</LastLoginTime>
-      <SavedCharacters />
-      <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
-      <RespawnShips />
-      <LastDeathPosition xsi:nil="true" />
-      <ActiveContracts />
-      <TransferedPCUDelta>0</TransferedPCUDelta>
-    </MyObjectBuilder_Identity>
-    <MyObjectBuilder_Identity>
-      <IdentityId>144115188075855897</IdentityId>
-      <DisplayName>extra strength goldnova</DisplayName>
-      <CharacterEntityId>129660104631805362</CharacterEntityId>
-      <Model>Default_Astronaut</Model>
-      <ColorMask x="0.349019617" y="0" z="0" />
-      <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2020-07-01T08:33:28.6162391-07:00</LastLoginTime>
-      <SavedCharacters>
-        <long>134395676913134123</long>
-        <long>96826969493395569</long>
-        <long>117683128732741381</long>
-        <long>91465669121692133</long>
-        <long>137603499558680581</long>
-        <long>125225859501009109</long>
-        <long>123698095062212747</long>
-        <long>119335602316693999</long>
-        <long>72281407604386296</long>
-        <long>129660104631805362</long>
-      </SavedCharacters>
-      <LastLogoutTime>2020-07-01T08:55:48.2319645-07:00</LastLogoutTime>
-      <RespawnShips>
-        <long>104062363745634458</long>
-      </RespawnShips>
-      <LastDeathPosition>
-        <X>-39465.370678592066</X>
-        <Y>-38841.548488572065</Y>
-        <Z>-26501.187068117732</Z>
-      </LastDeathPosition>
-      <ActiveContracts />
-      <TransferedPCUDelta>0</TransferedPCUDelta>
-    </MyObjectBuilder_Identity>
-    <MyObjectBuilder_Identity>
-      <IdentityId>144115188075855898</IdentityId>
-      <DisplayName>Exiled Engineer</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
-      <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2020-07-01T08:30:11.2493279-07:00</LastLoginTime>
-      <SavedCharacters />
-      <LastLogoutTime>2019-04-17T17:02:32.6713762-07:00</LastLogoutTime>
-      <RespawnShips />
-      <LastDeathPosition xsi:nil="true" />
-      <ActiveContracts />
-      <TransferedPCUDelta>0</TransferedPCUDelta>
-    </MyObjectBuilder_Identity>
-    <MyObjectBuilder_Identity>
-      <IdentityId>144115188075855899</IdentityId>
-      <DisplayName>Rovanova</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
-      <Model>Default_Astronaut</Model>
-      <ColorMask x="1" y="0" z="7.450581E-09" />
-      <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2020-07-01T01:21:07.7349462-07:00</LastLoginTime>
-      <SavedCharacters>
-        <long>76970793736063067</long>
-        <long>105896364126076662</long>
-        <long>98843309178414327</long>
-        <long>129676880426394686</long>
-      </SavedCharacters>
-      <LastLogoutTime>2020-07-01T03:47:20.2326032-07:00</LastLogoutTime>
-      <RespawnShips>
-        <long>115446816389179084</long>
-      </RespawnShips>
-      <LastDeathPosition>
-        <X>-38577.175650973732</X>
-        <Y>-39552.852561517357</Y>
-        <Z>-26759.266866753533</Z>
-      </LastDeathPosition>
-      <ActiveContracts />
-      <TransferedPCUDelta>0</TransferedPCUDelta>
-    </MyObjectBuilder_Identity>
-    <MyObjectBuilder_Identity>
-      <IdentityId>144115188075855900</IdentityId>
-      <DisplayName>FieryThunder</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
-      <Model>Default_Astronaut</Model>
-      <ColorMask x="0.605555534" y="0.199999988" z="0.0532630458" />
-      <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2020-07-01T01:21:08.58714-07:00</LastLoginTime>
-      <SavedCharacters>
-        <long>75763879835168294</long>
-        <long>102603028343158168</long>
-        <long>122144203954307213</long>
-        <long>104977913453113087</long>
-      </SavedCharacters>
-      <LastLogoutTime>2020-07-01T03:47:28.9665895-07:00</LastLogoutTime>
-      <RespawnShips>
-        <long>105740440875777637</long>
-      </RespawnShips>
-      <LastDeathPosition>
-        <X>-37909.035834374983</X>
-        <Y>-39441.93657604808</Y>
-        <Z>-27768.817810256754</Z>
-      </LastDeathPosition>
-      <ActiveContracts />
-      <TransferedPCUDelta>0</TransferedPCUDelta>
-    </MyObjectBuilder_Identity>
-    <MyObjectBuilder_Identity>
-      <IdentityId>144115188075855901</IdentityId>
-      <DisplayName>Gaming Tardigrade</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
-      <Model>Default_Astronaut</Model>
-      <ColorMask x="0.13333334" y="0.199999988" z="0.5388889" />
-      <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2020-07-01T03:25:27.2758107-07:00</LastLoginTime>
-      <SavedCharacters>
-        <long>135121029327175898</long>
-        <long>109706076637692152</long>
-      </SavedCharacters>
-      <LastLogoutTime>2020-07-01T03:47:12.338808-07:00</LastLogoutTime>
-      <RespawnShips>
-        <long>121747935675536200</long>
-      </RespawnShips>
-      <LastDeathPosition>
-        <X>-39596.949003974216</X>
-        <Y>-38707.204982435833</Y>
-        <Z>-26511.942191984483</Z>
-      </LastDeathPosition>
-      <ActiveContracts />
-      <TransferedPCUDelta>0</TransferedPCUDelta>
-    </MyObjectBuilder_Identity>
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075856046</IdentityId>
       <DisplayName />
@@ -5972,10 +5889,274 @@
       <ActiveContracts />
       <TransferedPCUDelta>0</TransferedPCUDelta>
     </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855894</IdentityId>
+      <DisplayName>Space Pirates</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2020-07-01T08:58:43.2127935-07:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855896</IdentityId>
+      <DisplayName>The Great Tarantula</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2020-07-01T08:58:36.7873323-07:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855897</IdentityId>
+      <DisplayName>extra strength goldnova</DisplayName>
+      <CharacterEntityId>129660104631805362</CharacterEntityId>
+      <Model>Default_Astronaut</Model>
+      <ColorMask x="0.349019617" y="0" z="0" />
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2020-07-01T09:19:31.0636512-07:00</LastLoginTime>
+      <SavedCharacters>
+        <long>134395676913134123</long>
+        <long>96826969493395569</long>
+        <long>117683128732741381</long>
+        <long>91465669121692133</long>
+        <long>137603499558680581</long>
+        <long>125225859501009109</long>
+        <long>123698095062212747</long>
+        <long>119335602316693999</long>
+        <long>72281407604386296</long>
+        <long>129660104631805362</long>
+      </SavedCharacters>
+      <LastLogoutTime>2020-07-01T09:28:06.9268355-07:00</LastLogoutTime>
+      <RespawnShips>
+        <long>104062363745634458</long>
+      </RespawnShips>
+      <LastDeathPosition>
+        <X>-39465.370678592066</X>
+        <Y>-38841.548488572065</Y>
+        <Z>-26501.187068117732</Z>
+      </LastDeathPosition>
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855898</IdentityId>
+      <DisplayName>Exiled Engineer</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2020-07-01T08:58:36.7873323-07:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2019-04-17T17:02:32.6713762-07:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855899</IdentityId>
+      <DisplayName>Rovanova</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <Model>Default_Astronaut</Model>
+      <ColorMask x="1" y="0" z="7.450581E-09" />
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2020-07-01T01:21:07.7349462-07:00</LastLoginTime>
+      <SavedCharacters>
+        <long>76970793736063067</long>
+        <long>105896364126076662</long>
+        <long>98843309178414327</long>
+        <long>129676880426394686</long>
+      </SavedCharacters>
+      <LastLogoutTime>2020-07-01T03:47:20.2326032-07:00</LastLogoutTime>
+      <RespawnShips>
+        <long>115446816389179084</long>
+      </RespawnShips>
+      <LastDeathPosition>
+        <X>-38577.175650973732</X>
+        <Y>-39552.852561517357</Y>
+        <Z>-26759.266866753533</Z>
+      </LastDeathPosition>
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855900</IdentityId>
+      <DisplayName>FieryThunder</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <Model>Default_Astronaut</Model>
+      <ColorMask x="0.605555534" y="0.199999988" z="0.0532630458" />
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2020-07-01T01:21:08.58714-07:00</LastLoginTime>
+      <SavedCharacters>
+        <long>75763879835168294</long>
+        <long>102603028343158168</long>
+        <long>122144203954307213</long>
+        <long>104977913453113087</long>
+      </SavedCharacters>
+      <LastLogoutTime>2020-07-01T03:47:28.9665895-07:00</LastLogoutTime>
+      <RespawnShips>
+        <long>105740440875777637</long>
+      </RespawnShips>
+      <LastDeathPosition>
+        <X>-37909.035834374983</X>
+        <Y>-39441.93657604808</Y>
+        <Z>-27768.817810256754</Z>
+      </LastDeathPosition>
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855901</IdentityId>
+      <DisplayName>Gaming Tardigrade</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <Model>Default_Astronaut</Model>
+      <ColorMask x="0.13333334" y="0.199999988" z="0.5388889" />
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2020-07-01T03:25:27.2758107-07:00</LastLoginTime>
+      <SavedCharacters>
+        <long>135121029327175898</long>
+        <long>109706076637692152</long>
+      </SavedCharacters>
+      <LastLogoutTime>2020-07-01T03:47:12.338808-07:00</LastLogoutTime>
+      <RespawnShips>
+        <long>121747935675536200</long>
+      </RespawnShips>
+      <LastDeathPosition>
+        <X>-39596.949003974216</X>
+        <Y>-38707.204982435833</Y>
+        <Z>-26511.942191984483</Z>
+      </LastDeathPosition>
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+    </MyObjectBuilder_Identity>
   </Identities>
+  <Clients>
+    <MyObjectBuilder_Client>
+      <SteamId>90136729717754884</SteamId>
+      <Name>Good.bot</Name>
+      <IsAdmin>true</IsAdmin>
+    </MyObjectBuilder_Client>
+    <MyObjectBuilder_Client>
+      <SteamId>76561198041508947</SteamId>
+      <Name>extra strength goldnova</Name>
+      <IsAdmin>true</IsAdmin>
+    </MyObjectBuilder_Client>
+  </Clients>
   <PreviousEnvironmentHostility>NORMAL</PreviousEnvironmentHostility>
   <AllPlayersData>
     <dictionary>
+      <item>
+        <Key>
+          <ClientId>76561198041508947</ClientId>
+          <SerialId>0</SerialId>
+        </Key>
+        <Value>
+          <DisplayName>extra strength goldnova</DisplayName>
+          <IdentityId>144115188075855897</IdentityId>
+          <Connected>true</Connected>
+          <ForceRealPlayer>true</ForceRealPlayer>
+          <Toolbar>
+            <ToolbarType>Character</ToolbarType>
+            <SelectedSlot xsi:nil="true" />
+            <Slots>
+              <Slot>
+                <Index>0</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
+                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="WelderItem" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>1</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
+                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="AngleGrinderItem" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>2</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
+                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="HandDrillItem" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>3</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
+                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="AutomaticRifleItem" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>4</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>5</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_ConveyorConnector" Subtype="ConveyorTubeSmall" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>6</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_CargoContainer" Subtype="SmallBlockMediumContainer" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>7</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_Drill" Subtype="LargeBlockDrill" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>8</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_InteriorLight" Subtype="SmallLight" />
+                </Data>
+              </Slot>
+            </Slots>
+            <SlotsGamepad />
+          </Toolbar>
+          <EntityCameraData>
+            <CameraControllerSettings EntityId="88677012049073294">
+              <IsFirstPerson>true</IsFirstPerson>
+              <Distance>20.000000000000007</Distance>
+              <HeadAngle x="0" y="0" />
+            </CameraControllerSettings>
+            <CameraControllerSettings EntityId="129660104631805362">
+              <IsFirstPerson>true</IsFirstPerson>
+              <Distance>3.4850603967200966</Distance>
+              <HeadAngle x="0" y="0" />
+            </CameraControllerSettings>
+            <CameraControllerSettings EntityId="84927172222772001">
+              <IsFirstPerson>true</IsFirstPerson>
+              <Distance>2.5999999046325684</Distance>
+              <HeadAngle x="0" y="0" />
+            </CameraControllerSettings>
+            <CameraControllerSettings EntityId="121268414522130494">
+              <IsFirstPerson>true</IsFirstPerson>
+              <Distance>2.5999999046325684</Distance>
+              <HeadAngle x="-49.75965" y="2.44717455" />
+            </CameraControllerSettings>
+          </EntityCameraData>
+          <BuildColorSlot>0</BuildColorSlot>
+        </Value>
+      </item>
       <item>
         <Key>
           <ClientId>90136720730471432</ClientId>
@@ -6155,183 +6336,6 @@
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
           </EntityCameraData>
-          <BuildColorSlot>0</BuildColorSlot>
-        </Value>
-      </item>
-      <item>
-        <Key>
-          <ClientId>76561198041508947</ClientId>
-          <SerialId>0</SerialId>
-        </Key>
-        <Value>
-          <DisplayName>extra strength goldnova</DisplayName>
-          <IdentityId>144115188075855897</IdentityId>
-          <Connected>false</Connected>
-          <ForceRealPlayer>false</ForceRealPlayer>
-          <Toolbar>
-            <ToolbarType>Character</ToolbarType>
-            <SelectedSlot xsi:nil="true" />
-            <Slots>
-              <Slot>
-                <Index>0</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
-                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="WelderItem" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>1</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
-                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="AngleGrinderItem" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>2</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
-                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="HandDrillItem" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>3</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_ShipConnector" Subtype="Connector" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>4</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>5</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_ConveyorConnector" Subtype="ConveyorTubeSmall" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>6</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_CargoContainer" Subtype="SmallBlockMediumContainer" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>7</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_Drill" Subtype="LargeBlockDrill" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>8</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_InteriorLight" Subtype="SmallLight" />
-                </Data>
-              </Slot>
-            </Slots>
-            <SlotsGamepad />
-          </Toolbar>
-          <EntityCameraData>
-            <CameraControllerSettings EntityId="88677012049073294">
-              <IsFirstPerson>true</IsFirstPerson>
-              <Distance>20.000000000000007</Distance>
-              <HeadAngle x="0" y="0" />
-            </CameraControllerSettings>
-            <CameraControllerSettings EntityId="129660104631805362">
-              <IsFirstPerson>true</IsFirstPerson>
-              <Distance>3.4850603967200966</Distance>
-              <HeadAngle x="0" y="0" />
-            </CameraControllerSettings>
-            <CameraControllerSettings EntityId="84927172222772001">
-              <IsFirstPerson>true</IsFirstPerson>
-              <Distance>2.5999999046325684</Distance>
-              <HeadAngle x="0" y="0" />
-            </CameraControllerSettings>
-            <CameraControllerSettings EntityId="121268414522130494">
-              <IsFirstPerson>true</IsFirstPerson>
-              <Distance>2.5999999046325684</Distance>
-              <HeadAngle x="-49.75965" y="2.44717455" />
-            </CameraControllerSettings>
-          </EntityCameraData>
-          <BuildColorSlots>
-            <Vector3>
-              <X>0</X>
-              <Y>-1</Y>
-              <Z>0</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>0</Y>
-              <Z>0.05</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.333333343</X>
-              <Y>-0.48</Y>
-              <Z>-0.25</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.575</X>
-              <Y>0</Y>
-              <Z>0</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.122222222</X>
-              <Y>-0.1</Y>
-              <Z>0.26</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.95</Y>
-              <Z>0.4</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.96</Y>
-              <Z>-0.5</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.85</Y>
-              <Z>0.2</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>0.15</Y>
-              <Z>0.25</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.333333343</X>
-              <Y>-0.329999983</Y>
-              <Z>-0.049999997</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.575</X>
-              <Y>0.15</Y>
-              <Z>0.2</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.122222222</X>
-              <Y>0.0500000045</Y>
-              <Z>0.459999979</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.799999952</Y>
-              <Z>0.6</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.809999943</Y>
-              <Z>-0.3</Z>
-            </Vector3>
-          </BuildColorSlots>
           <BuildColorSlot>0</BuildColorSlot>
         </Value>
       </item>
@@ -7254,9 +7258,9 @@
               <name>Respawn Pod - 104062363745634458</name>
               <description>Location of your respawn pod</description>
               <coords>
-                <X>-2275.7834468341462</X>
-                <Y>37058.761405154582</Y>
-                <Z>49074.454671387852</Z>
+                <X>-2275.7832627857661</X>
+                <Y>37058.760774696741</Y>
+                <Z>49074.454208971023</Z>
               </coords>
               <isFinal>true</isFinal>
               <showOnHud>true</showOnHud>
@@ -7301,32 +7305,6 @@
               <isObjective>false</isObjective>
               <contractId>0</contractId>
               <DisplayName />
-            </Entry>
-            <Entry>
-              <name>Unknown signal 85</name>
-              <description />
-              <coords>
-                <X>-39262.267822484282</X>
-                <Y>-38033.370878969356</Y>
-                <Z>-27332.334647401556</Z>
-              </coords>
-              <isFinal>true</isFinal>
-              <showOnHud>true</showOnHud>
-              <alwaysVisible>true</alwaysVisible>
-              <color>
-                <PackedValue>4281335725</PackedValue>
-                <X>173</X>
-                <Y>255</Y>
-                <Z>47</Z>
-                <R>173</R>
-                <G>255</G>
-                <B>47</B>
-                <A>255</A>
-              </color>
-              <entityId>74945436870957217</entityId>
-              <isObjective>false</isObjective>
-              <contractId>0</contractId>
-              <DisplayName>Unknown signal</DisplayName>
             </Entry>
           </Entries>
         </Value>
@@ -7502,9 +7480,9 @@
               <name>Respawn Pod - 121747935675536200</name>
               <description>Location of your respawn pod</description>
               <coords>
-                <X>-51172.970240066585</X>
-                <Y>31913.100555381352</Y>
-                <Z>14670.119489834564</Z>
+                <X>-51172.970506024954</X>
+                <Y>31913.099419731705</Y>
+                <Z>14670.119327703014</Z>
               </coords>
               <isFinal>true</isFinal>
               <showOnHud>true</showOnHud>
@@ -7579,6 +7557,39 @@
           </Entries>
         </Value>
       </item>
+      <item>
+        <Key>144115188075856083</Key>
+        <Value>
+          <Entries>
+            <Entry>
+              <name>Unknown signal 86</name>
+              <description />
+              <coords>
+                <X>-40014.6835529675</X>
+                <Y>-40013.446030396983</Y>
+                <Z>-25253.836293796267</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>true</alwaysVisible>
+              <color>
+                <PackedValue>4281335725</PackedValue>
+                <X>173</X>
+                <Y>255</Y>
+                <Z>47</Z>
+                <R>173</R>
+                <G>255</G>
+                <B>47</B>
+                <A>255</A>
+              </color>
+              <entityId>134049801169886080</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <DisplayName>Unknown signal</DisplayName>
+            </Entry>
+          </Entries>
+        </Value>
+      </item>
     </dictionary>
   </Gps>
   <SessionComponents>
@@ -7630,9 +7641,11 @@
       </Vector3DListStorage>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpaceFaunaComponent">
-      <SpawnInfos />
+      <SpawnInfos>
+        <Info X="-39552.821836111158" Y="-38718.040685176929" Z="-26548.949128048291" S="133" A="43400" />
+      </SpawnInfos>
       <TimeoutInfos>
-        <Info X="-39625.086520791032" Y="-38689.15642386645" Z="-26495.030729806182" T="0" />
+        <Info X="-39418.038691647627" Y="-38740.467948669153" Z="-26601.479410296502" T="146584" />
       </TimeoutInfos>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CampaignSessionComponent">
@@ -7647,7 +7660,7 @@
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>3868533696819502467</PlanetId>
-          <NextWeather>201730</NextWeather>
+          <NextWeather>169465</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
@@ -7657,22 +7670,22 @@
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>7227078719122709097</PlanetId>
-          <NextWeather>10107</NextWeather>
+          <NextWeather>26432</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>6409848419840584595</PlanetId>
-          <NextWeather>23508</NextWeather>
+          <NextWeather>119886</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>7376538848170297803</PlanetId>
-          <NextWeather>104422</NextWeather>
+          <NextWeather>72157</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-6999989728267602142</PlanetId>
-          <NextWeather>11359</NextWeather>
+          <NextWeather>3502</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
       </WeatherPlanetData>
@@ -7683,14 +7696,14 @@
       <PlayerData>
         <PlayerContainerData>
           <PlayerId>144115188075855897</PlayerId>
-          <Timer>1041</Timer>
-          <Active>false</Active>
+          <Timer>815</Timer>
+          <Active>true</Active>
           <Competetive>false</Competetive>
-          <ContainerId>74945436870957217</ContainerId>
+          <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855899</PlayerId>
-          <Timer>124</Timer>
+          <Timer>706</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
@@ -7704,881 +7717,881 @@
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855901</PlayerId>
-          <Timer>471</Timer>
+          <Timer>324</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855906</PlayerId>
-          <Timer>228</Timer>
+          <Timer>783</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855908</PlayerId>
-          <Timer>520</Timer>
+          <Timer>563</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855909</PlayerId>
-          <Timer>241</Timer>
+          <Timer>581</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855912</PlayerId>
-          <Timer>497</Timer>
+          <Timer>289</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855915</PlayerId>
-          <Timer>690</Timer>
+          <Timer>152</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855916</PlayerId>
-          <Timer>560</Timer>
+          <Timer>22</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855913</PlayerId>
-          <Timer>524</Timer>
+          <Timer>760</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855914</PlayerId>
-          <Timer>229</Timer>
+          <Timer>307</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855917</PlayerId>
-          <Timer>547</Timer>
+          <Timer>9</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855919</PlayerId>
-          <Timer>58</Timer>
+          <Timer>353</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855920</PlayerId>
-          <Timer>435</Timer>
+          <Timer>997</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855918</PlayerId>
-          <Timer>845</Timer>
+          <Timer>307</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855923</PlayerId>
-          <Timer>268</Timer>
+          <Timer>780</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855924</PlayerId>
-          <Timer>348</Timer>
+          <Timer>402</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855921</PlayerId>
-          <Timer>283</Timer>
+          <Timer>715</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855922</PlayerId>
-          <Timer>860</Timer>
+          <Timer>322</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855931</PlayerId>
-          <Timer>184</Timer>
+          <Timer>665</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855929</PlayerId>
-          <Timer>32</Timer>
+          <Timer>450</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855935</PlayerId>
-          <Timer>355</Timer>
+          <Timer>822</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855936</PlayerId>
-          <Timer>47</Timer>
+          <Timer>245</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855933</PlayerId>
-          <Timer>727</Timer>
+          <Timer>189</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855934</PlayerId>
-          <Timer>702</Timer>
+          <Timer>164</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855938</PlayerId>
-          <Timer>844</Timer>
+          <Timer>306</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855940</PlayerId>
-          <Timer>1078</Timer>
+          <Timer>540</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855948</PlayerId>
-          <Timer>458</Timer>
+          <Timer>491</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855951</PlayerId>
-          <Timer>62</Timer>
+          <Timer>497</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855952</PlayerId>
-          <Timer>252</Timer>
+          <Timer>680</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855953</PlayerId>
-          <Timer>528</Timer>
+          <Timer>735</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855954</PlayerId>
-          <Timer>977</Timer>
+          <Timer>439</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855955</PlayerId>
-          <Timer>768</Timer>
+          <Timer>230</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855956</PlayerId>
-          <Timer>18</Timer>
+          <Timer>55</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855959</PlayerId>
-          <Timer>300</Timer>
+          <Timer>650</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855960</PlayerId>
-          <Timer>66</Timer>
+          <Timer>461</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855957</PlayerId>
-          <Timer>352</Timer>
+          <Timer>159</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855958</PlayerId>
-          <Timer>769</Timer>
+          <Timer>231</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855961</PlayerId>
-          <Timer>41</Timer>
+          <Timer>312</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855968</PlayerId>
-          <Timer>205</Timer>
+          <Timer>712</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855966</PlayerId>
-          <Timer>978</Timer>
+          <Timer>440</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855971</PlayerId>
-          <Timer>184</Timer>
+          <Timer>6</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855972</PlayerId>
-          <Timer>167</Timer>
+          <Timer>309</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855970</PlayerId>
-          <Timer>294</Timer>
+          <Timer>694</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855975</PlayerId>
-          <Timer>681</Timer>
+          <Timer>143</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855976</PlayerId>
-          <Timer>609</Timer>
+          <Timer>71</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855973</PlayerId>
-          <Timer>714</Timer>
+          <Timer>176</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855974</PlayerId>
-          <Timer>645</Timer>
+          <Timer>107</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855983</PlayerId>
-          <Timer>87</Timer>
+          <Timer>518</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855984</PlayerId>
-          <Timer>284</Timer>
+          <Timer>304</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855981</PlayerId>
-          <Timer>4</Timer>
+          <Timer>390</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855982</PlayerId>
-          <Timer>275</Timer>
+          <Timer>755</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855987</PlayerId>
-          <Timer>516</Timer>
+          <Timer>590</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855985</PlayerId>
-          <Timer>331</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075855986</PlayerId>
-          <Timer>843</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075855988</PlayerId>
-          <Timer>758</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075855992</PlayerId>
-          <Timer>588</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075855990</PlayerId>
-          <Timer>522</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075855995</PlayerId>
-          <Timer>78</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075855993</PlayerId>
-          <Timer>419</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075855996</PlayerId>
-          <Timer>762</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075855999</PlayerId>
-          <Timer>277</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856000</PlayerId>
-          <Timer>444</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075855997</PlayerId>
-          <Timer>1015</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075855998</PlayerId>
-          <Timer>45</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856003</PlayerId>
-          <Timer>42</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856001</PlayerId>
-          <Timer>750</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856002</PlayerId>
-          <Timer>971</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856010</PlayerId>
-          <Timer>761</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856004</PlayerId>
-          <Timer>386</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856007</PlayerId>
-          <Timer>47</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856008</PlayerId>
-          <Timer>733</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856006</PlayerId>
-          <Timer>647</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856019</PlayerId>
-          <Timer>508</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856017</PlayerId>
-          <Timer>969</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856021</PlayerId>
-          <Timer>602</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856023</PlayerId>
-          <Timer>92</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856024</PlayerId>
-          <Timer>980</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856027</PlayerId>
-          <Timer>995</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856028</PlayerId>
-          <Timer>472</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856025</PlayerId>
-          <Timer>193</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856026</PlayerId>
-          <Timer>1116</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856040</PlayerId>
-          <Timer>469</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856042</PlayerId>
           <Timer>717</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
-          <PlayerId>144115188075856046</PlayerId>
-          <Timer>552</Timer>
+          <PlayerId>144115188075855986</PlayerId>
+          <Timer>305</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
-          <PlayerId>144115188075856049</PlayerId>
-          <Timer>308</Timer>
+          <PlayerId>144115188075855988</PlayerId>
+          <Timer>220</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
-          <PlayerId>144115188075856050</PlayerId>
-          <Timer>1102</Timer>
+          <PlayerId>144115188075855992</PlayerId>
+          <Timer>50</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
-          <PlayerId>144115188075856044</PlayerId>
-          <Timer>207</Timer>
+          <PlayerId>144115188075855990</PlayerId>
+          <Timer>385</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
-          <PlayerId>144115188075856047</PlayerId>
-          <Timer>356</Timer>
+          <PlayerId>144115188075855995</PlayerId>
+          <Timer>734</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
-          <PlayerId>144115188075856048</PlayerId>
-          <Timer>493</Timer>
+          <PlayerId>144115188075855993</PlayerId>
+          <Timer>263</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
-          <PlayerId>144115188075856059</PlayerId>
-          <Timer>460</Timer>
+          <PlayerId>144115188075855996</PlayerId>
+          <Timer>224</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
-          <PlayerId>144115188075856057</PlayerId>
-          <Timer>736</Timer>
+          <PlayerId>144115188075855999</PlayerId>
+          <Timer>304</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
-          <PlayerId>144115188075856058</PlayerId>
-          <Timer>121</Timer>
+          <PlayerId>144115188075856000</PlayerId>
+          <Timer>1039</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
-          <PlayerId>144115188075856062</PlayerId>
-          <Timer>594</Timer>
+          <PlayerId>144115188075855997</PlayerId>
+          <Timer>477</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
-          <PlayerId>144115188075856060</PlayerId>
-          <Timer>244</Timer>
+          <PlayerId>144115188075855998</PlayerId>
+          <Timer>90</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
-          <PlayerId>144115188075856061</PlayerId>
-          <Timer>276</Timer>
+          <PlayerId>144115188075856003</PlayerId>
+          <Timer>587</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
-          <PlayerId>144115188075856066</PlayerId>
-          <Timer>1116</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856067</PlayerId>
-          <Timer>1126</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856064</PlayerId>
-          <Timer>431</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856071</PlayerId>
-          <Timer>404</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856081</PlayerId>
-          <Timer>1013</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856082</PlayerId>
-          <Timer>134</Timer>
-          <Active>true</Active>
-          <Competetive>true</Competetive>
-          <ContainerId>0</ContainerId>
-        </PlayerContainerData>
-        <PlayerContainerData>
-          <PlayerId>144115188075856083</PlayerId>
+          <PlayerId>144115188075856001</PlayerId>
           <Timer>212</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
+          <PlayerId>144115188075856002</PlayerId>
+          <Timer>433</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856010</PlayerId>
+          <Timer>223</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856004</PlayerId>
+          <Timer>425</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856007</PlayerId>
+          <Timer>619</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856008</PlayerId>
+          <Timer>195</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856006</PlayerId>
+          <Timer>109</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856019</PlayerId>
+          <Timer>561</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856017</PlayerId>
+          <Timer>431</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856021</PlayerId>
+          <Timer>64</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856023</PlayerId>
+          <Timer>211</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856024</PlayerId>
+          <Timer>442</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856027</PlayerId>
+          <Timer>457</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856028</PlayerId>
+          <Timer>808</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856025</PlayerId>
+          <Timer>77</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856026</PlayerId>
+          <Timer>578</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856040</PlayerId>
+          <Timer>672</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856042</PlayerId>
+          <Timer>179</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856046</PlayerId>
+          <Timer>14</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856049</PlayerId>
+          <Timer>370</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856050</PlayerId>
+          <Timer>564</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856044</PlayerId>
+          <Timer>165</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856047</PlayerId>
+          <Timer>873</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856048</PlayerId>
+          <Timer>909</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856059</PlayerId>
+          <Timer>753</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856057</PlayerId>
+          <Timer>198</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856058</PlayerId>
+          <Timer>3</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856062</PlayerId>
+          <Timer>56</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856060</PlayerId>
+          <Timer>895</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856061</PlayerId>
+          <Timer>439</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856066</PlayerId>
+          <Timer>578</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856067</PlayerId>
+          <Timer>588</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856064</PlayerId>
+          <Timer>367</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856071</PlayerId>
+          <Timer>172</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856081</PlayerId>
+          <Timer>475</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856082</PlayerId>
+          <Timer>34</Timer>
+          <Active>true</Active>
+          <Competetive>true</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075856083</PlayerId>
+          <Timer>312</Timer>
+          <Active>false</Active>
+          <Competetive>false</Competetive>
+          <ContainerId>134049801169886080</ContainerId>
+        </PlayerContainerData>
+        <PlayerContainerData>
           <PlayerId>144115188075856084</PlayerId>
-          <Timer>654</Timer>
+          <Timer>116</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856085</PlayerId>
-          <Timer>637</Timer>
+          <Timer>99</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856086</PlayerId>
-          <Timer>326</Timer>
+          <Timer>633</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856087</PlayerId>
-          <Timer>504</Timer>
+          <Timer>498</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856088</PlayerId>
-          <Timer>168</Timer>
+          <Timer>467</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856089</PlayerId>
-          <Timer>1135</Timer>
+          <Timer>597</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856090</PlayerId>
-          <Timer>768</Timer>
+          <Timer>230</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856091</PlayerId>
-          <Timer>51</Timer>
+          <Timer>581</Timer>
           <Active>true</Active>
-          <Competetive>false</Competetive>
+          <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856103</PlayerId>
-          <Timer>333</Timer>
+          <Timer>565</Timer>
           <Active>true</Active>
-          <Competetive>false</Competetive>
+          <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856105</PlayerId>
-          <Timer>333</Timer>
+          <Timer>480</Timer>
           <Active>true</Active>
-          <Competetive>false</Competetive>
+          <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856106</PlayerId>
-          <Timer>333</Timer>
+          <Timer>384</Timer>
           <Active>true</Active>
-          <Competetive>false</Competetive>
+          <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856107</PlayerId>
-          <Timer>849</Timer>
+          <Timer>311</Timer>
           <Active>true</Active>
           <Competetive>false</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856108</PlayerId>
-          <Timer>849</Timer>
+          <Timer>311</Timer>
           <Active>true</Active>
           <Competetive>false</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856109</PlayerId>
-          <Timer>849</Timer>
+          <Timer>311</Timer>
           <Active>true</Active>
           <Competetive>false</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856110</PlayerId>
-          <Timer>849</Timer>
+          <Timer>311</Timer>
           <Active>true</Active>
           <Competetive>false</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856111</PlayerId>
-          <Timer>849</Timer>
+          <Timer>311</Timer>
           <Active>true</Active>
           <Competetive>false</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856112</PlayerId>
-          <Timer>849</Timer>
+          <Timer>311</Timer>
           <Active>true</Active>
           <Competetive>false</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856113</PlayerId>
-          <Timer>228</Timer>
+          <Timer>697</Timer>
           <Active>true</Active>
-          <Competetive>false</Competetive>
+          <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856114</PlayerId>
-          <Timer>228</Timer>
+          <Timer>868</Timer>
           <Active>true</Active>
-          <Competetive>false</Competetive>
+          <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856115</PlayerId>
-          <Timer>228</Timer>
+          <Timer>701</Timer>
           <Active>true</Active>
-          <Competetive>false</Competetive>
+          <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856116</PlayerId>
-          <Timer>194</Timer>
+          <Timer>580</Timer>
           <Active>true</Active>
-          <Competetive>false</Competetive>
+          <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856117</PlayerId>
-          <Timer>194</Timer>
+          <Timer>627</Timer>
           <Active>true</Active>
-          <Competetive>false</Competetive>
+          <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075856118</PlayerId>
-          <Timer>194</Timer>
+          <Timer>206</Timer>
           <Active>true</Active>
-          <Competetive>false</Competetive>
+          <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
       </PlayerData>
       <GPSForRemoval />
       <EntitiesForRemoval>
         <MyEntityForRemoval>
-          <TimeLeft>312</TimeLeft>
-          <EntityId>128964719024785378</EntityId>
+          <TimeLeft>574</TimeLeft>
+          <EntityId>98797135466342493</EntityId>
         </MyEntityForRemoval>
       </EntitiesForRemoval>
-      <ContainerIdSmall>86</ContainerIdSmall>
+      <ContainerIdSmall>87</ContainerIdSmall>
       <ContainerIdLarge>6</ContainerIdLarge>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentContractSystem">
@@ -8640,7 +8653,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>108016</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>57366</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -10499,14 +10512,6 @@
       <MarkedAreas>
         <EmptyArea>
           <Position>
-            <X>16384.5</X>
-            <Y>136384.5</Y>
-            <Z>-113615.5</Z>
-          </Position>
-          <Radius>9785</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
             <X>131072.5</X>
             <Y>131072.5</Y>
             <Z>5731072.5</Z>
@@ -10518,6 +10523,14 @@
             <X>36384.5</X>
             <Y>226384.5</Y>
             <Z>5796384.5</Z>
+          </Position>
+          <Radius>9785</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>16384.5</X>
+            <Y>136384.5</Y>
+            <Z>-113615.5</Z>
           </Position>
           <Radius>9785</Radius>
         </EmptyArea>
@@ -13369,6 +13382,90 @@
             <Lost>false</Lost>
           </Value>
         </item>
+        <item>
+          <Key>
+            <stm>90136729717754884</stm>
+            <ser>1</ser>
+          </Key>
+          <Value>
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key>
+            <stm>90136729717754884</stm>
+            <ser>2</ser>
+          </Key>
+          <Value>
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key>
+            <stm>90136729717754884</stm>
+            <ser>3</ser>
+          </Key>
+          <Value>
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key>
+            <stm>90136729717754884</stm>
+            <ser>4</ser>
+          </Key>
+          <Value>
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key>
+            <stm>90136729717754884</stm>
+            <ser>5</ser>
+          </Key>
+          <Value>
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key>
+            <stm>90136729717754884</stm>
+            <ser>6</ser>
+          </Key>
+          <Value>
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key>
+            <stm>90136729717754884</stm>
+            <ser>7</ser>
+          </Key>
+          <Value>
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
       </dictionary>
     </Triggers>
   </MissionTriggers>
@@ -13382,7 +13479,7 @@
       </item>
       <item>
         <Key>76561198041508947</Key>
-        <Value>7</Value>
+        <Value>6</Value>
       </item>
       <item>
         <Key>76561198110282559</Key>

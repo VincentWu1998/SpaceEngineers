@@ -7,7 +7,7 @@
   <MaxShipsPerArea>10</MaxShipsPerArea>
   <AreaSize>25000</AreaSize>
   <MinSpawnDistanceFromPlayer>2000</MinSpawnDistanceFromPlayer>
-  <MaxSpawnDistanceFromPlayer>12000</MaxSpawnDistanceFromPlayer>
+  <MaxSpawnDistanceFromPlayer>6000</MaxSpawnDistanceFromPlayer>
   <MinDistanceFromOtherEntities>3000</MinDistanceFromOtherEntities>
   <RemoveVoxelsIfGridRemoved>true</RemoveVoxelsIfGridRemoved>
   <SpawnAttempts>10</SpawnAttempts>
