@@ -31,10 +31,10 @@
     <ResetOwnership>false</ResetOwnership>
     <WelderSpeedMultiplier>2</WelderSpeedMultiplier>
     <GrinderSpeedMultiplier>2</GrinderSpeedMultiplier>
-    <RealisticSound>false</RealisticSound>
+    <RealisticSound>true</RealisticSound>
     <HackSpeedMultiplier>0.33</HackSpeedMultiplier>
     <PermanentDeath>false</PermanentDeath>
-    <AutoSaveInMinutes>3</AutoSaveInMinutes>
+    <AutoSaveInMinutes>2</AutoSaveInMinutes>
     <EnableSaving>true</EnableSaving>
     <InfiniteAmmo>false</InfiniteAmmo>
     <EnableContainerDrops>true</EnableContainerDrops>
@@ -67,7 +67,7 @@
     <EnableDrones>true</EnableDrones>
     <EnableWolfs>true</EnableWolfs>
     <EnableSpiders>true</EnableSpiders>
-    <FloraDensityMultiplier>1</FloraDensityMultiplier>
+    <FloraDensityMultiplier>0</FloraDensityMultiplier>
     <EnableStructuralSimulation>false</EnableStructuralSimulation>
     <MaxActiveFracturePieces>50</MaxActiveFracturePieces>
     <BlockTypeLimits>
@@ -115,6 +115,10 @@
     <SimplifiedSimulation>false</SimplifiedSimulation>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Automatic LCDs 2">
+      <Name>822950976.sbm</Name>
+      <PublishedFileId>822950976</PublishedFileId>
+    </ModItem>
     <ModItem FriendlyName="Modular Encounters Spawner">
       <Name>1521905890.sbm</Name>
       <PublishedFileId>1521905890</PublishedFileId>
