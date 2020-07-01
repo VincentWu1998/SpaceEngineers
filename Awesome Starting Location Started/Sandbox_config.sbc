@@ -113,12 +113,11 @@
     <StationsDistanceOuterRadiusEnd>30000000</StationsDistanceOuterRadiusEnd>
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <SimplifiedSimulation>false</SimplifiedSimulation>
-    <SuppressedWarnings />
   </Settings>
   <Mods>
-  <ModItem>
-    <Name>1124114101.sbm</Name>
-    <PublishedFileId>1124114101</PublishedFileId>
-  </ModItem>
-	</Mods>
+    <ModItem FriendlyName="More Conveyors">
+      <Name>1124114101.sbm</Name>
+      <PublishedFileId>1124114101</PublishedFileId>
+    </ModItem>
+  </Mods>
 </MyObjectBuilder_WorldConfiguration>
