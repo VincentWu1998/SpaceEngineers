@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>670050160000</ElapsedGameTime>
+  <ElapsedGameTime>673502640000</ElapsedGameTime>
   <SessionName>Awesome Starting Location Started</SessionName>
   <SpectatorPosition>
     <Position x="-39604.3651571104" y="-38699.836091513513" z="-26517.782779089339" />
@@ -19,7 +19,7 @@
   <CameraEntity>0</CameraEntity>
   <Password />
   <Description />
-  <LastSaveTime>2020-07-01T00:40:42.6962071-07:00</LastSaveTime>
+  <LastSaveTime>2020-07-01T00:46:42.7142608-07:00</LastSaveTime>
   <SpectatorDistance>2.6</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
@@ -158,21 +158,21 @@
   <ControlledEntities>
     <dictionary>
       <item>
-        <Key>119335602316693999</Key>
+        <Key>121268414522130494</Key>
         <Value>
           <ClientId>76561198041508947</ClientId>
           <SerialId>0</SerialId>
         </Value>
       </item>
       <item>
-        <Key>129676880426394686</Key>
+        <Key>84927172222772001</Key>
         <Value>
           <ClientId>76561198146050134</ClientId>
           <SerialId>0</SerialId>
         </Value>
       </item>
       <item>
-        <Key>122144203954307213</Key>
+        <Key>100634028737016325</Key>
         <Value>
           <ClientId>76561198110282559</ClientId>
           <SerialId>0</SerialId>
@@ -655,7 +655,7 @@
         <long>123698095062212747</long>
         <long>119335602316693999</long>
       </SavedCharacters>
-      <LastLogoutTime>2020-07-01T00:40:42.6962071-07:00</LastLogoutTime>
+      <LastLogoutTime>2020-07-01T00:46:42.7152607-07:00</LastLogoutTime>
       <RespawnShips>
         <long>104062363745634458</long>
       </RespawnShips>
@@ -694,7 +694,7 @@
         <long>98843309178414327</long>
         <long>129676880426394686</long>
       </SavedCharacters>
-      <LastLogoutTime>2020-07-01T00:40:42.6962071-07:00</LastLogoutTime>
+      <LastLogoutTime>2020-07-01T00:46:42.7152607-07:00</LastLogoutTime>
       <RespawnShips>
         <long>115446816389179084</long>
       </RespawnShips>
@@ -719,7 +719,7 @@
         <long>102603028343158168</long>
         <long>122144203954307213</long>
       </SavedCharacters>
-      <LastLogoutTime>2020-07-01T00:40:42.6962071-07:00</LastLogoutTime>
+      <LastLogoutTime>2020-07-01T00:46:42.7152607-07:00</LastLogoutTime>
       <RespawnShips>
         <long>105740440875777637</long>
       </RespawnShips>
@@ -1470,32 +1470,6 @@
               <DisplayName>Respawn Pod</DisplayName>
             </Entry>
             <Entry>
-              <name>Unknown signal 73</name>
-              <description />
-              <coords>
-                <X>-40944.43939532384</X>
-                <Y>-37433.769405397936</Y>
-                <Z>-26079.992408898448</Z>
-              </coords>
-              <isFinal>true</isFinal>
-              <showOnHud>true</showOnHud>
-              <alwaysVisible>true</alwaysVisible>
-              <color>
-                <PackedValue>4281335725</PackedValue>
-                <X>173</X>
-                <Y>255</Y>
-                <Z>47</Z>
-                <R>173</R>
-                <G>255</G>
-                <B>47</B>
-                <A>255</A>
-              </color>
-              <entityId>103023836267804025</entityId>
-              <isObjective>false</isObjective>
-              <contractId>0</contractId>
-              <DisplayName>Unknown signal</DisplayName>
-            </Entry>
-            <Entry>
               <name>iron</name>
               <description>By: Rovanova</description>
               <coords>
@@ -1684,6 +1658,32 @@
               <contractId>0</contractId>
               <DisplayName />
             </Entry>
+            <Entry>
+              <name>Unknown signal 74</name>
+              <description />
+              <coords>
+                <X>-40835.6325129573</X>
+                <Y>-37497.303578514024</Y>
+                <Z>-26215.935334828471</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>true</alwaysVisible>
+              <color>
+                <PackedValue>4281335725</PackedValue>
+                <X>173</X>
+                <Y>255</Y>
+                <Z>47</Z>
+                <R>173</R>
+                <G>255</G>
+                <B>47</B>
+                <A>255</A>
+              </color>
+              <entityId>115984343417514828</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <DisplayName>Unknown signal</DisplayName>
+            </Entry>
           </Entries>
         </Value>
       </item>
@@ -1824,9 +1824,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpaceFaunaComponent">
       <SpawnInfos>
-        <Info X="-39113.486600602409" Y="-39464.577460736626" Z="-26101.775846732835" S="30195" A="28333" />
-        <Info X="-39602.063278145521" Y="-38702.009039026794" Z="-26511.892842258352" S="3324" A="44333" />
-        <Info X="-39248.646080073551" Y="-39303.486694245548" Z="-26193.695874893685" S="104525" A="28333" />
+        <Info X="-39601.617885042389" Y="-38718.043874275085" Z="-26492.07110858797" S="129884" A="44700" />
       </SpawnInfos>
       <TimeoutInfos />
     </MyObjectBuilder_SessionComponent>
@@ -1842,7 +1840,7 @@
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>3868533696819502467</PlanetId>
-          <NextWeather>192107</NextWeather>
+          <NextWeather>170585</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
@@ -1852,22 +1850,22 @@
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>7227078719122709097</PlanetId>
-          <NextWeather>24184</NextWeather>
+          <NextWeather>2662</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>6409848419840584595</PlanetId>
-          <NextWeather>84972</NextWeather>
+          <NextWeather>63450</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>7376538848170297803</PlanetId>
-          <NextWeather>41966</NextWeather>
+          <NextWeather>20444</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-6999989728267602142</PlanetId>
-          <NextWeather>10401</NextWeather>
+          <NextWeather>7000</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
       </WeatherPlanetData>
@@ -1878,28 +1876,28 @@
       <PlayerData>
         <PlayerContainerData>
           <PlayerId>144115188075855897</PlayerId>
-          <Timer>771</Timer>
-          <Active>false</Active>
+          <Timer>683</Timer>
+          <Active>true</Active>
           <Competetive>false</Competetive>
           <ContainerId>103023836267804025</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855899</PlayerId>
-          <Timer>684</Timer>
+          <Timer>324</Timer>
           <Active>true</Active>
           <Competetive>false</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855900</PlayerId>
-          <Timer>98</Timer>
-          <Active>true</Active>
+          <Timer>350</Timer>
+          <Active>false</Active>
           <Competetive>false</Competetive>
-          <ContainerId>0</ContainerId>
+          <ContainerId>115984343417514828</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855901</PlayerId>
-          <Timer>610</Timer>
+          <Timer>250</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
@@ -1908,11 +1906,11 @@
       <GPSForRemoval />
       <EntitiesForRemoval>
         <MyEntityForRemoval>
-          <TimeLeft>271</TimeLeft>
-          <EntityId>107931669485313256</EntityId>
+          <TimeLeft>638</TimeLeft>
+          <EntityId>106540429302212082</EntityId>
         </MyEntityForRemoval>
       </EntitiesForRemoval>
-      <ContainerIdSmall>74</ContainerIdSmall>
+      <ContainerIdSmall>75</ContainerIdSmall>
       <ContainerIdLarge>4</ContainerIdLarge>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentContractSystem">
@@ -1974,7 +1972,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>6250</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>5850</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -1986,12 +1984,6 @@
           <EntityCount>2</EntityCount>
           <Rotation x="0.79925555" y="-0.4274494" z="0.420016736" w="-0.04542619" />
           <Position x="-39607.144795866814" y="-38701.0784429866" z="-26499.901491483033" />
-        </CoordSysInfo>
-        <CoordSysInfo>
-          <Id>8</Id>
-          <EntityCount>1</EntityCount>
-          <Rotation x="0.849408746" y="-0.411192417" z="0.3161617" w="-0.09730043" />
-          <Position x="-39111.428681395286" y="-39465.990209866162" z="-26102.26756098503" />
         </CoordSysInfo>
       </CoordSystems>
     </MyObjectBuilder_SessionComponent>
