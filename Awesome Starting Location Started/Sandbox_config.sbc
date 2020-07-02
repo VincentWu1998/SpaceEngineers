@@ -34,7 +34,7 @@
     <RealisticSound>true</RealisticSound>
     <HackSpeedMultiplier>0.33</HackSpeedMultiplier>
     <PermanentDeath>false</PermanentDeath>
-    <AutoSaveInMinutes>2</AutoSaveInMinutes>
+    <AutoSaveInMinutes>3</AutoSaveInMinutes>
     <EnableSaving>true</EnableSaving>
     <InfiniteAmmo>false</InfiniteAmmo>
     <EnableContainerDrops>true</EnableContainerDrops>
@@ -94,7 +94,7 @@
     <PlayerCharacterRemovalThreshold>15</PlayerCharacterRemovalThreshold>
     <VoxelTrashRemovalEnabled>false</VoxelTrashRemovalEnabled>
     <VoxelPlayerDistanceThreshold>5000</VoxelPlayerDistanceThreshold>
-    <VoxelGridDistanceThreshold>5000</VoxelGridDistanceThreshold>
+    <VoxelGridDistanceThreshold>4991</VoxelGridDistanceThreshold>
     <VoxelAgeThreshold>24</VoxelAgeThreshold>
     <EnableResearch>false</EnableResearch>
     <EnableGoodBotHints>true</EnableGoodBotHints>
