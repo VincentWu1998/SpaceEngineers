@@ -88,7 +88,7 @@
     <TrashFlagsValue>7706</TrashFlagsValue>
     <AFKTimeountMin>0</AFKTimeountMin>
     <BlockCountThreshold>20</BlockCountThreshold>
-    <PlayerDistanceThreshold>100000</PlayerDistanceThreshold>
+    <PlayerDistanceThreshold>500</PlayerDistanceThreshold>
     <OptimalGridCount>0</OptimalGridCount>
     <PlayerInactivityThreshold>0</PlayerInactivityThreshold>
     <PlayerCharacterRemovalThreshold>15</PlayerCharacterRemovalThreshold>
