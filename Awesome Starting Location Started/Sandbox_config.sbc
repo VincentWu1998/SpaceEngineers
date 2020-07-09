@@ -115,6 +115,10 @@
     <SimplifiedSimulation>false</SimplifiedSimulation>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Modified Homeworld 2 Sarum Skybox (Grid-Aligned)">
+      <Name>301306953.sbm</Name>
+      <PublishedFileId>301306953</PublishedFileId>
+    </ModItem>
     <ModItem FriendlyName="Automatic LCDs 2">
       <Name>822950976.sbm</Name>
       <PublishedFileId>822950976</PublishedFileId>
