@@ -10,7 +10,7 @@
     <OnlineMode>PUBLIC</OnlineMode>
     <MaxPlayers>4</MaxPlayers>
     <MaxFloatingObjects>129</MaxFloatingObjects>
-    <MaxBackupSaves>36</MaxBackupSaves>
+    <MaxBackupSaves>5</MaxBackupSaves>
     <MaxGridSize>50000</MaxGridSize>
     <MaxBlocksPerPlayer>100000</MaxBlocksPerPlayer>
     <TotalPCU>1000000</TotalPCU>
@@ -116,9 +116,9 @@
     <SuppressedWarnings />
   </Settings>
   <Mods>
-  <ModItem>
-    <Name>1124114101.sbm</Name>
-    <PublishedFileId>1124114101</PublishedFileId>
-  </ModItem>
-	</Mods>
+    <ModItem>
+      <Name>1124114101.sbm</Name>
+      <PublishedFileId>1124114101</PublishedFileId>
+    </ModItem>
+  </Mods>
 </MyObjectBuilder_WorldConfiguration>
